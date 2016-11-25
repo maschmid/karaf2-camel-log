@@ -67,7 +67,19 @@
           </releases>
         </repository>
  
-        
+         <repository>
+          <id>fistp</id>
+          <name>FIS TP Repository</name>
+          <url>https://10.34.125.144/fis-2.0.TP/</url>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <releases>
+            <enabled>true</enabled>
+            <updatePolicy>never</updatePolicy>
+          </releases>
+        </repository>
+ 
         
       </repositories>
 
@@ -114,7 +126,19 @@
           </releases>
         </pluginRepository>
  
-        
+          <pluginRepository>
+          <id>fistp</id>
+          <name>FIS TP Repository</name>
+          <url>https://10.34.125.144/fis-2.0.TP/</url>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <releases>
+            <enabled>true</enabled>
+            <updatePolicy>never</updatePolicy>
+          </releases>
+        </pluginRepository>
+
         
       </pluginRepositories>
     </profile>
