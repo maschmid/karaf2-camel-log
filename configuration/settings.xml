@@ -70,7 +70,7 @@
          <repository>
           <id>fistp</id>
           <name>FIS TP Repository</name>
-          <url>https://10.34.125.144/fis-2.0.TP/</url>
+          <url>http://10.34.125.144/fis-2.0.TP/</url>
           <snapshots>
             <enabled>false</enabled>
           </snapshots>
@@ -129,7 +129,7 @@
           <pluginRepository>
           <id>fistp</id>
           <name>FIS TP Repository</name>
-          <url>https://10.34.125.144/fis-2.0.TP/</url>
+          <url>http://10.34.125.144/fis-2.0.TP/</url>
           <snapshots>
             <enabled>false</enabled>
           </snapshots>
